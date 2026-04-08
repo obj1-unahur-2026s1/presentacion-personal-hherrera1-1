@@ -8,7 +8,7 @@ y haber querido dejar del todo la carrera, pero un amigo me hizo volver y acá e
 El fin de todo esto es buscar un trabajo que me permita trabajar en la modalidad del famoso home office, ya que lo siento cómodo y también
 es bastante estresante el tránsito del día a día.
 
-![MiFoto](/Dektop/Objetos1/mifoto.jpg)
+![MiFoto](Objetos1/mifoto.jpg)
 
 
 ## Mis gustos  
