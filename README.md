@@ -13,6 +13,6 @@ es bastante estresante el tránsito del día a día.
 
 ## Mis gustos  
 Esta es una foto mía en Lago Esmeralda en Ushuaia haciendo trekking algo que me gusta hace unos años, y que en este país hermoso
-tenes muchos lugares para poder hacerlo, les recomiendo hacerlo pero también despues descansar en las vacaciones jaja.
+tenes muchos lugares para poder hacerlo, les recomiendo hacerlo pero también después descansar en las vacaciones jaja.
 
 
