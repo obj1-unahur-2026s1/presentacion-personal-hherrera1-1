@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+![Logo UNAHUR](assets/UNAHUR.png)
 
 # Hector Herrera
 Hola, mi nombre es **Hector** y es la primera vez que curso objetos 1, ya me quedan 7 materias para tener el título intermedio.
