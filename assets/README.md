@@ -1,5 +1,5 @@
 
-![Logo UNAHUR](./UNAHUR.png)
+![Logo UNAHUR](assets/UNAHUR.png)
 
 # Hector Herrera
 Hola, mi nombre es **Hector** y es la primera vez que curso objetos 1, ya me quedan 7 materias para tener el título intermedio.
@@ -9,7 +9,7 @@ y haber querido dejar del todo la carrera, pero un amigo me hizo volver y acá e
 El fin de todo esto es buscar un trabajo que me permita trabajar en la modalidad del famoso home office, ya que lo siento cómodo y también
 es bastante estresante el tránsito del día a día.
 
-![Esquema](assets/mifoto.jpg)
+![foto](assets/mifoto.jpg)
 
 
 ## Mis gustos  
